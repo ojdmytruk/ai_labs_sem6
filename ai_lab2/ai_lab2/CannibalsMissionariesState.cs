@@ -74,5 +74,24 @@
                 numCannibalsLeft == otherState.numCannibalsLeft &&
                 numMissionariesLeft == otherState.numMissionariesLeft;
         }
+
+        public override int GetHashCode()
+        {
+            return boatOnRight.GetHashCode() +
+                numCannibalsRight.GetHashCode() * 101 +
+                numMissionariesRight.GetHashCode() * 103 +
+                numCannibalsRight.GetHashCode() * 107 +
+                numMissionariesLeft.GetHashCode() * 109;
+        }
+
+        public static CannibalsMissionariesState CalculateStartState(int c, int m)
+        {
+            return new CannibalsMissionariesState(true, c, m, 0, 0);
+        }
+
+        public CannibalsMissionariesState CalculateGoalState()
+        {
+            return new CannibalsMissionariesState(false, 0, 0, numCannibalsRight + numCannibalsLeft, numMissionariesRight + numMissionariesLeft);
+        }
     }
 }
