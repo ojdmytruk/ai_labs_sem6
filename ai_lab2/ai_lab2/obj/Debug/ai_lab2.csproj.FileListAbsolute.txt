@@ -1,0 +1,13 @@
+C:\Users\teraz\source\repos\ai_lab2\ai_lab2\bin\Debug\ai_lab2.exe.config
+C:\Users\teraz\source\repos\ai_lab2\ai_lab2\bin\Debug\ai_lab2.exe
+C:\Users\teraz\source\repos\ai_lab2\ai_lab2\bin\Debug\ai_lab2.pdb
+C:\Users\teraz\source\repos\ai_lab2\ai_lab2\obj\Debug\ai_lab2.csprojAssemblyReference.cache
+C:\Users\teraz\source\repos\ai_lab2\ai_lab2\obj\Debug\ai_lab2.csproj.CoreCompileInputs.cache
+C:\Users\teraz\source\repos\ai_lab2\ai_lab2\obj\Debug\ai_lab2.exe
+C:\Users\teraz\source\repos\ai_lab2\ai_lab2\obj\Debug\ai_lab2.pdb
+C:\Users\Dell\Desktop\кпи6\ии\ai_lab2\ai_lab2\bin\Debug\ai_lab2.exe.config
+C:\Users\Dell\Desktop\кпи6\ии\ai_lab2\ai_lab2\bin\Debug\ai_lab2.exe
+C:\Users\Dell\Desktop\кпи6\ии\ai_lab2\ai_lab2\bin\Debug\ai_lab2.pdb
+C:\Users\Dell\Desktop\кпи6\ии\ai_lab2\ai_lab2\obj\Debug\ai_lab2.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\кпи6\ии\ai_lab2\ai_lab2\obj\Debug\ai_lab2.exe
+C:\Users\Dell\Desktop\кпи6\ии\ai_lab2\ai_lab2\obj\Debug\ai_lab2.pdb
